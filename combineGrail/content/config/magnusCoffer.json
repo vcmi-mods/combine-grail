@@ -1,0 +1,56 @@
+{
+	"cgMagnusCoffer" : {
+		"bonuses" : [
+			{ 
+				"type" : "STACK_HEALTH",
+				"val" : 50,
+				"valueType" : "PERCENT_TO_BASE",
+				"limiters": [ {
+					"type":"CREATURE_TYPE_LIMITER",
+					"parameters": [ "ballista", false ]
+					} 
+				]				
+			},
+			{ 
+				"type" : "STACK_HEALTH",
+				"val" : 50,
+				"valueType" : "PERCENT_TO_BASE",
+				"limiters": [ {
+					"type":"CREATURE_TYPE_LIMITER",
+					"parameters": [ "firstAidTent", false ]
+					} 
+				]				
+			},
+			{ 
+				"type" : "STACK_HEALTH",
+				"val" : 50,
+				"valueType" : "PERCENT_TO_BASE",
+				"limiters": [ {
+					"type":"CREATURE_TYPE_LIMITER",
+					"parameters": [ "ammoCart", false ]
+					} 
+				]				
+			},
+			{ 
+				"type" : "STACK_HEALTH",
+				"val" : 50,
+				"valueType" : "PERCENT_TO_BASE",
+				"limiters": [ {
+					"type":"CREATURE_TYPE_LIMITER",
+					"parameters": [ "catapult", false ]
+					} 
+				]				
+			}
+		],
+		"class" : "MAJOR",
+		"graphics" : { "image" : "coffer/coffer", "large" : "coffer/cofferL", "map" : "coffer/box" },
+		"slot" : "MISC",
+		"text" : {
+			"description" : "{Magnus Coffer}\r\n\r\nAll siege weapon gain +50% HP.",
+			"event" : "This place reminds you of legends about the Ancients - a ruined temple filled with all sorts of strange objects. One of them is not like the others, however - the golden treasure glares across the whole room. You quickly pick it up and exit the temple, hoping no one will try to steal it from you.",
+			"name" : "Magnus Coffer"
+		},
+		"type" : [ "HERO" ],
+		"value" : 6000
+	}
+}

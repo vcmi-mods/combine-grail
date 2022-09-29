@@ -1,0 +1,23 @@
+{
+	"cgMagicSweaterSutra" : {
+		"bonuses": [
+			{
+				"type" : "BLOCK_MAGIC_BELOW",
+				"val" : 2,
+				"valueType" : "INDEPENDENT_MAX",
+//				"effectRange" : "ONLY_ENEMY_ARMY",
+				"propagator": "BATTLE_WIDE"
+			}
+		],
+		"class" : "MAJOR",
+		"graphics" : { "image" : "sutra/sutra", "large" : "sutra/sutraL", "map" : "sutra/column" },
+		"slot" : "MISC",
+		"text" : {
+			"description" : "{Magic Sweater Sutra}\r\n\r\nBoth sides can't cast any 1st level spells during battle.",
+			"event" : "This place reminds you of legends about the Ancients - a ruined temple filled with all sorts of strange objects. One of them is not like the others, however - the golden treasure glares across the whole room. You quickly pick it up and exit the temple, hoping no one will try to steal it from you.",
+			"name" : "Magic Sweater Sutra"
+		},
+		"type" : [ "HERO" ],
+		"value" : 8000
+	}
+}

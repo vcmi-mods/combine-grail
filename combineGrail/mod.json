@@ -1,0 +1,29 @@
+{
+	"author" : "avatar, Trith, Hobbit",
+	"contact" : "http://www.forum.acidcave.net/topic.php?TID=1423",
+	"description" : "Grail as combined artifact",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Mechanic",
+	"name" : "Combine Grail",
+	"version" : "1.2",
+	"changelog" :
+	{
+		"1.2"   : [ "Tweaks" ],
+		"1.1"   : [ "Graphical fixes" ],
+		"1.0"   : [ "Initial release" ]
+	},	
+	"compatibility" :
+	{
+		"min" : "1.0.0"
+	},	
+	"artifacts" :
+	[
+		"config/grail",
+		"config/aviary",
+		"config/sirensStar",
+		"config/magnusCoffer",
+		"config/patron",
+		"config/sutra"
+	]
+}

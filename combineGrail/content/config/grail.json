@@ -1,0 +1,14 @@
+{
+	"core:grail":
+	{
+		"components":
+		[
+			"cgEtherElementalsAviary",
+			"cgSirensStar",
+			"cgMagnusCoffer",
+			"cgPatronOfVenomousFire",
+			"cgMagicSweaterSutra"
+		],
+		"slot" : [ "MISC" ]
+	}
+}

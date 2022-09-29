@@ -1,0 +1,28 @@
+{
+	"cgSirensStar" : {
+		"bonuses" : [
+            {
+				"type" : "CASTS",
+				"valueType" : "ADDITIVE_VALUE",
+				"propagator":"BATTLE_WIDE",
+//				"effectRange" : "ONLY_ENEMY_ARMY",
+				"val" : -1	
+            },
+            {
+				"type" : "CASTS",
+				"valueType" : "ADDITIVE_VALUE",
+				"val" : 1	
+            }
+		],
+		"class" : "MAJOR",
+		"graphics" : { "image" : "star/sirensStar", "large" : "star/sirensStarL", "map" : "star/star" },
+		"slot" : "MISC",
+		"text" : {
+			"description" : "{Siren's Star}\r\n\r\nReduces amount of available creatures' spells by 1.",
+			"event" : "This place reminds you of legends about the Ancients - a ruined temple filled with all sorts of strange objects. One of them is not like the others, however - the golden treasure glares across the whole room. You quickly pick it up and exit the temple, hoping no one will try to steal it from you.",
+			"name" : "Siren's Star"
+		},
+		"type" : [ "HERO" ],
+		"value" : 5500
+	}
+}
