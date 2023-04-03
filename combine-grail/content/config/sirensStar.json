@@ -5,13 +5,9 @@
 				"type" : "CASTS",
 				"valueType" : "ADDITIVE_VALUE",
 				"propagator":"BATTLE_WIDE",
-//				"effectRange" : "ONLY_ENEMY_ARMY",
+				"propagationUpdater" : "BONUS_OWNER_UPDATER",
+				"limiters" : [ "OPPOSITE_SIDE" ],
 				"val" : -1	
-            },
-            {
-				"type" : "CASTS",
-				"valueType" : "ADDITIVE_VALUE",
-				"val" : 1	
             }
 		],
 		"class" : "MAJOR",

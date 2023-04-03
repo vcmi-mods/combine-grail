@@ -13,7 +13,7 @@
 				"type" : "GENERATE_RESOURCE",
 				"val" : 250,
 				"propagator" : "TEAM_PROPAGATOR"
-			},			
+			}	
 		],
 		"class" : "MAJOR",
 		"graphics" : { "image" : "aviary/aviary", "large" : "aviary/aviaryL", "map" : "aviary/egg" },

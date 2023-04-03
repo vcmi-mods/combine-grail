@@ -5,7 +5,6 @@
 				"type" : "BLOCK_MAGIC_BELOW",
 				"val" : 2,
 				"valueType" : "INDEPENDENT_MAX",
-//				"effectRange" : "ONLY_ENEMY_ARMY",
 				"propagator": "BATTLE_WIDE"
 			}
 		],
