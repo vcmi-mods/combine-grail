@@ -4,7 +4,7 @@
 	"description" : "Grail as combined artifact",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
-	"modType" : "Mechanic",
+	"modType" : "Artifacts",
 	"name" : "Combine Grail",
 	"version" : "1.3",
 	"compatibility" :
