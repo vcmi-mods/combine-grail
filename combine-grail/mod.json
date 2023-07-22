@@ -6,18 +6,25 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"modType" : "Artifacts",
 	"name" : "Combine Grail",
-	"version" : "1.3",
+	"version" : "1.4",
 	"compatibility" :
 	{
 		"min" : "1.2.0"
 	},
 	"changelog" :
     {
+        "1.4"   : [ "Chinese translation from https://www.h3wog.com/thread-77661-1-1.html" ],
         "1.3"   : [ "Update to vcmi-1.2" ],
         "1.2"   : [ "Update to vcmi-1.1" ],
 		"1.1"   : [ "Fixes" ],
 		"1.0"   : [ "Initial release" ]
     },	
+	"chinese" : {
+		"name" : "结合圣杯",
+		"translations" : [
+			"translation/combine-grail/chinese.json"
+		]
+	},
 	"artifacts" :
 	[
 		"config/grail",
