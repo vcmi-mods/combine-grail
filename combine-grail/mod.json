@@ -21,6 +21,7 @@
     },	
 	"chinese" : {
 		"name" : "结合圣杯",
+		"description" : "结合圣杯",
 		"translations" : [
 			"translation/combine-grail/chinese.json"
 		]
