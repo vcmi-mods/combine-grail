@@ -20,8 +20,8 @@
 		"1.0"   : [ "Initial release" ]
     },	
 	"chinese" : {
-		"name" : "结合圣杯",
-		"description" : "结合圣杯",
+		"name" : "组合宝物",
+		"description" : "组合宝物",
 		"translations" : [
 			"translation/combine-grail/chinese.json"
 		]
