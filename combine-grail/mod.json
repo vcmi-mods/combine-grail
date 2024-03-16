@@ -20,8 +20,8 @@
 		"1.0"   : [ "Initial release" ]
     },	
 	"chinese" : {
-		"name" : "组合宝物",
-		"description" : "组合宝物",
+		"name" : "圣杯",
+		"description" : "五件新的宝物，能够组成组合宝物“圣杯”。",
 		"translations" : [
 			"translation/combine-grail/chinese.json"
 		]
