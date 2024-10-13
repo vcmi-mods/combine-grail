@@ -1,0 +1,17 @@
+{
+	"artifact.combine-grail.cgEtherElementalsAviary.description" : "{Klec pro éterické elementály}\r\n\r\nVšichni nepřátelští hráči ztratí 250 zlatých, spojenečtí hráči získají 250 zlatých.",
+	"artifact.combine-grail.cgEtherElementalsAviary.event" : "Nacházíš se v ruinách chrámu plného nejrůznějších podivných předmětů, a vzpomínáš na legendy o starodávných bozích. Mezi nepořádkem jedna věc vyniká – její záře osvětluje celou místnost. Rychle si ji vezmeš a opustíš chrám, doufaje, že si tvého nálezu nikdo nebude žádostiv.",
+	"artifact.combine-grail.cgEtherElementalsAviary.name" : "Klec pro éterické elementály",
+	"artifact.combine-grail.cgMagicSweaterSutra.description" : "{Svitek magického svetru}\r\n\r\nŽádná strana nemůže použít magii prvního stupně.",
+	"artifact.combine-grail.cgMagicSweaterSutra.event" : "Nacházíš se v ruinách chrámu plného nejrůznějších podivných předmětů, a vzpomínáš na legendy o starodávných bozích. Mezi nepořádkem jedna věc vyniká – její záře osvětluje celou místnost. Rychle si ji vezmeš a opustíš chrám, doufaje, že si tvého nálezu nikdo nebude žádostiv.",
+	"artifact.combine-grail.cgMagicSweaterSutra.name" : "Svitek magického svetru",
+	"artifact.combine-grail.cgMagnusCoffer.description" : "{Magnův poklad}\r\n\r\nVšechny (původní) válečné stroje mají o 50% více životů.",
+	"artifact.combine-grail.cgMagnusCoffer.event" : "Nacházíš se v ruinách chrámu plného nejrůznějších podivných předmětů, a vzpomínáš na legendy o starodávných bozích. Mezi nepořádkem jedna věc vyniká – její záře osvětluje celou místnost. Rychle si ji vezmeš a opustíš chrám, doufaje, že si tvého nálezu nikdo nebude žádostiv.",
+	"artifact.combine-grail.cgMagnusCoffer.name" : "Magnův poklad",
+	"artifact.combine-grail.cgPatronOfVenomousFire.description" : "{Patron jedovatého ohně}\r\n\r\nSníží životy všech nepřátelských jednotek o 10%.",
+	"artifact.combine-grail.cgPatronOfVenomousFire.event" : "Nacházíš se v ruinách chrámu plného nejrůznějších podivných předmětů, a vzpomínáš na legendy o starodávných bozích. Mezi nepořádkem jedna věc vyniká – její záře osvětluje celou místnost. Rychle si ji vezmeš a opustíš chrám, doufaje, že si tvého nálezu nikdo nebude žádostiv.",
+	"artifact.combine-grail.cgPatronOfVenomousFire.name" : "Patron jedovatého ohně",
+	"artifact.combine-grail.cgSirensStar.description" : "{Hvězda sirén}\r\n\r\nPřidá +1 k magickým schopnostem všech kouzlících jednotek.",
+	"artifact.combine-grail.cgSirensStar.event" : "Nacházíš se v ruinách chrámu plného nejrůznějších podivných předmětů, a vzpomínáš na legendy o starodávných bozích. Mezi nepořádkem jedna věc vyniká – její záře osvětluje celou místnost. Rychle si ji vezmeš a opustíš chrám, doufaje, že si tvého nálezu nikdo nebude žádostiv.",
+	"artifact.combine-grail.cgSirensStar.name" : "Hvězda sirén"
+}
