@@ -1,20 +1,22 @@
 {
 	"cgEtherElementalsAviary" : {
 		"bonuses" : 
-		[
+		{
+			"goldEffect1" :
 			{
 				"subtype" : "resource.gold",
 				"type" : "GENERATE_RESOURCE",
 				"val" : -250,
 				"propagator" : "GLOBAL_EFFECT"
 			},
+			"goldEffect2" :
 			{
 				"subtype" : "resource.gold",
 				"type" : "GENERATE_RESOURCE",
 				"val" : 250,
 				"propagator" : "TEAM_PROPAGATOR"
 			}	
-		],
+		},
 		"class" : "MAJOR",
 		"graphics" : { "image" : "aviary/aviary", "large" : "aviary/aviaryL", "map" : "aviary/egg" },
 		"slot" : "MISC",

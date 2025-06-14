@@ -1,6 +1,7 @@
 {
 	"cgPatronOfVenomousFire" : {
-		"bonuses" : [
+		"bonuses" : {
+			"stackHealth" :
 			{
 				"type" : "STACK_HEALTH",
 				"val" : -10,
@@ -9,7 +10,7 @@
 				"propagationUpdater" : "BONUS_OWNER_UPDATER",
 				"limiters" : [ "OPPOSITE_SIDE" ]
 			}
-		],
+		},
 		"class" : "MAJOR",
 		"graphics" : { "image" : "patron/patron", "large" : "patron/patronL", "map" : "patron/moon" },
 		"slot" : "MISC",

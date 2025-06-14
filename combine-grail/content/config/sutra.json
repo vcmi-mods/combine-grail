@@ -1,13 +1,14 @@
 {
 	"cgMagicSweaterSutra" : {
-		"bonuses": [
+		"bonuses": {
+			"blockMagic" :
 			{
 				"type" : "BLOCK_MAGIC_BELOW",
 				"val" : 2,
 				"valueType" : "INDEPENDENT_MAX",
 				"propagator": "BATTLE_WIDE"
 			}
-		],
+		},
 		"class" : "MAJOR",
 		"graphics" : { "image" : "sutra/sutra", "large" : "sutra/sutraL", "map" : "sutra/column" },
 		"slot" : "MISC",

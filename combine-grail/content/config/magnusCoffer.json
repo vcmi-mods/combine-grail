@@ -1,6 +1,7 @@
 {
 	"cgMagnusCoffer" : {
-		"bonuses" : [
+		"bonuses" : {
+			"stackHealth1" :
 			{ 
 				"type" : "STACK_HEALTH",
 				"val" : 50,
@@ -11,6 +12,7 @@
 					} 
 				]				
 			},
+			"stackHealth2" :
 			{ 
 				"type" : "STACK_HEALTH",
 				"val" : 50,
@@ -21,6 +23,7 @@
 					} 
 				]				
 			},
+			"stackHealth3" :
 			{ 
 				"type" : "STACK_HEALTH",
 				"val" : 50,
@@ -31,6 +34,7 @@
 					} 
 				]				
 			},
+			"stackHealth4" :
 			{ 
 				"type" : "STACK_HEALTH",
 				"val" : 50,
@@ -41,7 +45,7 @@
 					} 
 				]				
 			}
-		],
+		},
 		"class" : "MAJOR",
 		"graphics" : { "image" : "coffer/coffer", "large" : "coffer/cofferL", "map" : "coffer/box" },
 		"slot" : "MISC",

@@ -1,7 +1,8 @@
 {
 	"cgSirensStar" : {
-		"bonuses" : [
-            {
+		"bonuses" : {
+            "reduceCasts" :
+			{
 				"type" : "CASTS",
 				"valueType" : "ADDITIVE_VALUE",
 				"propagator":"BATTLE_WIDE",
@@ -9,7 +10,7 @@
 				"limiters" : [ "OPPOSITE_SIDE" ],
 				"val" : -1	
             }
-		],
+		},
 		"class" : "MAJOR",
 		"graphics" : { "image" : "star/sirensStar", "large" : "star/sirensStarL", "map" : "star/star" },
 		"slot" : "MISC",
