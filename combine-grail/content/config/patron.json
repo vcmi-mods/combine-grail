@@ -12,7 +12,7 @@
 			}
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "patron/patron", "large" : "patron/patronL", "map" : "patron/moon" },
+		"graphics" : { "image" : "patron/patron", "scenarioBonus" : "patron/patronL", "map" : "patron/moon" },
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Patron Of Venomous Fire}\r\n\r\nReduces enemy's units health by 10%.",

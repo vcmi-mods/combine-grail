@@ -18,7 +18,7 @@
 			}	
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "aviary/aviary", "large" : "aviary/aviaryL", "map" : "aviary/egg" },
+		"graphics" : { "image" : "aviary/aviary", "scenarioBonus" : "aviary/aviaryL", "map" : "aviary/egg" },
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Ether Elemental's Aviary}\r\n\r\nDestroys 250 gold for all enemy players.",

@@ -12,7 +12,7 @@
             }
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "star/sirensStar", "large" : "star/sirensStarL", "map" : "star/star" },
+		"graphics" : { "image" : "star/sirensStar", "scenarioBonus" : "star/sirensStarL", "map" : "star/star" },
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Siren's Star}\r\n\r\nReduces amount of available creatures' spells by 1.",

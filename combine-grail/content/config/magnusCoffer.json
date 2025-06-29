@@ -47,7 +47,7 @@
 			}
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "coffer/coffer", "large" : "coffer/cofferL", "map" : "coffer/box" },
+		"graphics" : { "image" : "coffer/coffer", "scenarioBonus" : "coffer/cofferL", "map" : "coffer/box" },
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Magnus Coffer}\r\n\r\nAll siege weapon gain +50% HP.",

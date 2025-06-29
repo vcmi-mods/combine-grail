@@ -10,7 +10,7 @@
 			}
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "sutra/sutra", "large" : "sutra/sutraL", "map" : "sutra/column" },
+		"graphics" : { "image" : "sutra/sutra", "scenarioBonus" : "sutra/sutraL", "map" : "sutra/column" },
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Magic Sweater Sutra}\r\n\r\nBoth sides can't cast any 1st level spells during battle.",
