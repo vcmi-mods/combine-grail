@@ -6,14 +6,15 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"modType" : "Artifacts",
 	"name" : "Combine Grail",
-	"version" : "1.8",
+	"version" : "1.9",
 	"compatibility" :
 	{
 		"min" : "1.7.0"
 	},
 	"changelog" :
     {
-        "1.8"   : [ "Yet another update to vcmi-1.7 format" ],
+        "1.9"   : [ "One more update to vcmi-1.7 format" ],
+		"1.8"   : [ "Yet another update to vcmi-1.7 format" ],
 		"1.7"   : [ "Update to vcmi-1.7 format" ],
 		"1.6"   : [ "Polish translation by FallainBlack" ],
         "1.5"   : [ "Czech translation by George King" ],

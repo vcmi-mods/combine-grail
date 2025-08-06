@@ -8,7 +8,8 @@
 				"valueType" : "PERCENT_TO_BASE",
 				"limiters": [ {
 					"type":"CREATURE_TYPE_LIMITER",
-					"parameters": [ "ballista", false ]
+					"creature": "ballista",
+					"includeUpgrades" : false
 					} 
 				]				
 			},
@@ -19,7 +20,8 @@
 				"valueType" : "PERCENT_TO_BASE",
 				"limiters": [ {
 					"type":"CREATURE_TYPE_LIMITER",
-					"parameters": [ "firstAidTent", false ]
+					"creature": "firstAidTent",
+					"includeUpgrades" : false
 					} 
 				]				
 			},
@@ -30,7 +32,8 @@
 				"valueType" : "PERCENT_TO_BASE",
 				"limiters": [ {
 					"type":"CREATURE_TYPE_LIMITER",
-					"parameters": [ "ammoCart", false ]
+					"creature": "ammoCart",
+					"includeUpgrades" : false
 					} 
 				]				
 			},
@@ -41,7 +44,8 @@
 				"valueType" : "PERCENT_TO_BASE",
 				"limiters": [ {
 					"type":"CREATURE_TYPE_LIMITER",
-					"parameters": [ "catapult", false ]
+					"creature": "catapult",
+					"includeUpgrades" : false
 					} 
 				]				
 			}

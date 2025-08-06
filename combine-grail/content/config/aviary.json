@@ -4,17 +4,17 @@
 		{
 			"goldEffect1" :
 			{
-				"subtype" : "resource.gold",
+				"subtype" : "gold",
 				"type" : "GENERATE_RESOURCE",
 				"val" : -250,
 				"propagator" : "GLOBAL_EFFECT"
 			},
 			"goldEffect2" :
 			{
-				"subtype" : "resource.gold",
+				"subtype" : "gold",
 				"type" : "GENERATE_RESOURCE",
 				"val" : 250,
-				"propagator" : "TEAM_PROPAGATOR"
+				"propagator" : "TEAM"
 			}	
 		},
 		"class" : "MAJOR",
