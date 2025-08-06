@@ -1,31 +1,34 @@
 {
 	"cgEtherElementalsAviary" : {
-		"bonuses" : 
-		{
-			"goldEffect1" :
-			{
+		"bonuses" : {
+			"goldEffect1" : {
 				"subtype" : "gold",
 				"type" : "GENERATE_RESOURCE",
 				"val" : -250,
 				"propagator" : "GLOBAL_EFFECT"
 			},
-			"goldEffect2" :
-			{
+			"goldEffect2" : {
 				"subtype" : "gold",
 				"type" : "GENERATE_RESOURCE",
 				"val" : 250,
 				"propagator" : "TEAM"
-			}	
+			}
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "aviary/aviary", "scenarioBonus" : "aviary/aviaryL", "map" : "aviary/egg" },
+		"graphics" : {
+			"image" : "aviary/aviary",
+			"scenarioBonus" : "aviary/aviaryL",
+			"map" : "aviary/egg"
+		},
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Ether Elemental's Aviary}\r\n\r\nDestroys 250 gold for all enemy players.",
 			"event" : "This place reminds you of legends about the Ancients - a ruined temple filled with all sorts of strange objects. One of them is not like the others, however - the golden treasure glares across the whole room. You quickly pick it up and exit the temple, hoping no one will try to steal it from you.",
 			"name" : "Ether Elemental's Aviary"
 		},
-		"type" : [ "HERO" ],
+		"type" : [
+			"HERO"
+		],
 		"value" : 6500
 	}
 }

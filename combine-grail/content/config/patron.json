@@ -1,25 +1,32 @@
 {
 	"cgPatronOfVenomousFire" : {
 		"bonuses" : {
-			"stackHealth" :
-			{
+			"stackHealth" : {
 				"type" : "STACK_HEALTH",
 				"val" : -10,
 				"valueType" : "PERCENT_TO_BASE",
-				"propagator": "BATTLE_WIDE",
+				"propagator" : "BATTLE_WIDE",
 				"propagationUpdater" : "BONUS_OWNER_UPDATER",
-				"limiters" : [ "OPPOSITE_SIDE" ]
+				"limiters" : [
+					"OPPOSITE_SIDE"
+				]
 			}
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "patron/patron", "scenarioBonus" : "patron/patronL", "map" : "patron/moon" },
+		"graphics" : {
+			"image" : "patron/patron",
+			"scenarioBonus" : "patron/patronL",
+			"map" : "patron/moon"
+		},
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Patron Of Venomous Fire}\r\n\r\nReduces enemy's units health by 10%.",
 			"event" : "This place reminds you of legends about the Ancients - a ruined temple filled with all sorts of strange objects. One of them is not like the others, however - the golden treasure glares across the whole room. You quickly pick it up and exit the temple, hoping no one will try to steal it from you.",
 			"name" : "Patron Of Venomous Fire"
 		},
-		"type" : [ "HERO" ],
+		"type" : [
+			"HERO"
+		],
 		"value" : 7500
 	}
 }

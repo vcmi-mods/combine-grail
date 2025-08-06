@@ -1,64 +1,70 @@
 {
 	"cgMagnusCoffer" : {
 		"bonuses" : {
-			"stackHealth1" :
-			{ 
+			"stackHealth1" : {
 				"type" : "STACK_HEALTH",
 				"val" : 50,
 				"valueType" : "PERCENT_TO_BASE",
-				"limiters": [ {
-					"type":"CREATURE_TYPE_LIMITER",
-					"creature": "ballista",
-					"includeUpgrades" : false
-					} 
-				]				
+				"limiters" : [
+					{
+						"type" : "CREATURE_TYPE_LIMITER",
+						"creature" : "ballista",
+						"includeUpgrades" : false
+					}
+				]
 			},
-			"stackHealth2" :
-			{ 
+			"stackHealth2" : {
 				"type" : "STACK_HEALTH",
 				"val" : 50,
 				"valueType" : "PERCENT_TO_BASE",
-				"limiters": [ {
-					"type":"CREATURE_TYPE_LIMITER",
-					"creature": "firstAidTent",
-					"includeUpgrades" : false
-					} 
-				]				
+				"limiters" : [
+					{
+						"type" : "CREATURE_TYPE_LIMITER",
+						"creature" : "firstAidTent",
+						"includeUpgrades" : false
+					}
+				]
 			},
-			"stackHealth3" :
-			{ 
+			"stackHealth3" : {
 				"type" : "STACK_HEALTH",
 				"val" : 50,
 				"valueType" : "PERCENT_TO_BASE",
-				"limiters": [ {
-					"type":"CREATURE_TYPE_LIMITER",
-					"creature": "ammoCart",
-					"includeUpgrades" : false
-					} 
-				]				
+				"limiters" : [
+					{
+						"type" : "CREATURE_TYPE_LIMITER",
+						"creature" : "ammoCart",
+						"includeUpgrades" : false
+					}
+				]
 			},
-			"stackHealth4" :
-			{ 
+			"stackHealth4" : {
 				"type" : "STACK_HEALTH",
 				"val" : 50,
 				"valueType" : "PERCENT_TO_BASE",
-				"limiters": [ {
-					"type":"CREATURE_TYPE_LIMITER",
-					"creature": "catapult",
-					"includeUpgrades" : false
-					} 
-				]				
+				"limiters" : [
+					{
+						"type" : "CREATURE_TYPE_LIMITER",
+						"creature" : "catapult",
+						"includeUpgrades" : false
+					}
+				]
 			}
 		},
 		"class" : "MAJOR",
-		"graphics" : { "image" : "coffer/coffer", "scenarioBonus" : "coffer/cofferL", "map" : "coffer/box" },
+		"graphics" : {
+			"image" : "coffer/coffer",
+			"scenarioBonus" : "coffer/cofferL",
+			"map" : "coffer/box"
+		},
 		"slot" : "MISC",
 		"text" : {
 			"description" : "{Magnus Coffer}\r\n\r\nAll siege weapon gain +50% HP.",
 			"event" : "This place reminds you of legends about the Ancients - a ruined temple filled with all sorts of strange objects. One of them is not like the others, however - the golden treasure glares across the whole room. You quickly pick it up and exit the temple, hoping no one will try to steal it from you.",
 			"name" : "Magnus Coffer"
 		},
-		"type" : [ "HERO" ],
+		"type" : [
+			"HERO"
+		],
 		"value" : 6000
 	}
 }
